@@ -1,0 +1,8 @@
+numpy
+sounddevice
+torch
+silero_vad
+faster_whisper
+pydub
+scipy
+noisereduce
